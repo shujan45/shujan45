@@ -1,9 +1,9 @@
-✨ About Me ✨
+✨ About Me ✨<br>
 
-Hey, I'm Sujan! 👋
+Hey, I'm Sujan! 👋<br>
 
-📊 I'm currently immersed in the world of **Data Science**, building projects and solving real-world problems.
-📚 Always learning! I'm actively expanding my expertise in **Data Analytics** and honing my **Data Science** abilities.
+📊 I'm currently immersed in the world of **Data Science**, building projects and solving real-world problems.<br>
+📚 Always learning! I'm actively expanding my expertise in **Data Analytics** and honing my **Data Science** abilities.<br>
 🗣️ Have a question or want to collaborate? Don't hesitate to connect!
 
 
