@@ -1,8 +1,8 @@
 💫 About Me:
-                                                        Hi, **I'm Sujan**
-                                          🔭 I’m currently working on Data Science
-                                          🌱 I’m currently learning Data Analytics and Data Science
-                                          💬 Reach Out : sujansapkota0504@gmail.com
+                                                        Hi, **I'm Sujan**<br>
+                                          🔭 I’m currently working on Data Science<br>
+                                          🌱 I’m currently learning Data Analytics and Data Science<br>
+                                          💬 Reach Out : sujansapkota0504@gmail.com<br>
 
 
 ## 🌐 Socials:
