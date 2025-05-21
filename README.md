@@ -1,5 +1,5 @@
 💫 About Me:
-                                                        Hi, I'm Sujan
+                                                        Hi, **I'm Sujan**
                                           🔭 I’m currently working on Data Science
                                           🌱 I’m currently learning Data Analytics and Data Science
                                           💬 Reach Out : sujansapkota0504@gmail.com
