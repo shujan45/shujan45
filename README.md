@@ -2,8 +2,6 @@
 
 Hey, **I'm Sujan!** 👋<br>
 
-
-
 📊 I'm currently immersed in the world of **Data Science**, building projects and solving real-world problems.<br>
 📚 Always learning! I'm actively expanding my expertise in **Data Analytics** and honing my **Data Science** abilities.<br>
 🗣️ Have a question or want to collaborate? Don't hesitate to connect! : [sujansapkota0504@gmail.com](mailto:sujansapkota0504@gmail.com)
