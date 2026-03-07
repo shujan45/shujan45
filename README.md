@@ -1,5 +1,4 @@
 ✨ _About Me_ ✨<br>
-
 Hey, **I'm Sujan!** 👋<br>
 
 📊 I'm currently immersed in the world of **Data Science**, building projects and solving real-world problems.<br>
