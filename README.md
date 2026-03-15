@@ -4,7 +4,7 @@ Hey, **I'm Sujan!** 👋<br>
 📊 I'm currently immersed in the world of **Data Science**, building projects and solving real-world problems.<br>
 📚 Always learning! I'm actively expanding my expertise in **Data Analytics** and honing my **Data Science** abilities.<br>
 🗣️ Have a question or want to collaborate? Don't hesitate to connect! : [sujansapkota0504@gmail.com](mailto:sujansapkota0504@gmail.com)
-      
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan--sapkota/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujansapkota0504@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/shujan45)
 
